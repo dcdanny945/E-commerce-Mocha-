@@ -1,0 +1,11 @@
+Please install Mocha and Chai to run the program 
+
+Mocha documents & references
+https://mochajs.org/
+
+Chai documents & references 
+https://www.chaijs.com/
+
+Chai expect syntax which is used in the program
+
+https://www.chaijs.com/guide/styles/#expect
